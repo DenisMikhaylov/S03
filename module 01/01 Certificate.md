@@ -1,7 +1,7 @@
 ```
 Exercise 1: Deploying a Stand-Alone Root CA
 Task 1: Install and configure Active Directory Certificate Services on **LON-Svr4**
-1. Sign in to LON-SVR4 as Administrator with the password Pa$$w0rd.
+1. Sign in to LON-SVR4 as Administrator with the password Pa55w.rd.
 2. In the Server Manager, click Add roles and features.
 3. On the Before You Begin page, click Next.
 4. On the Select installation type page, click Next.
@@ -76,7 +76,7 @@ Enter.
 ```
 Exercise 2: Deploying an Enterprise Subordinate CA
  Task 1: Install and configure AD CS on LON-SVR1
-1. Sign in to LON-SVR1 as Adatum\Administrator with the password Pa$$w0rd.
+1. Sign in to LON-SVR1 as Adatum\Administrator with the password Pa55w.rd.
 2. In the Server Manager, click Add roles and features.
 3. On the Before You Begin page, click Next.
 4. On the Select installation type page, click Next.
