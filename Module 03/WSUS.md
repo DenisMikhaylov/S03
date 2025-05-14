@@ -33,8 +33,7 @@ twice.
 2. On the Choose Upstream Server page, click Synchronize from another Windows Server Update
 Services server, and in the Server name text box, type LON-SVR2.Adatum.com, and then click
 Next.
-3. On the Specify Proxy Server page, click Next.MCT USE ONLY. STUDENT USE PROHIBITED
-L12-78 Managing, monitoring, and maintaining virtual machine installations
+3. On the Specify Proxy Server page, click Next.
 4. On the Connect to Upstream Server page, click Start Connecting. Wait for the upstream server
 settings to be applied, and then click Next.
 5. On the Choose Languages page, click Next.
@@ -67,8 +66,7 @@ continue.
 double-click Administrative Templates, double-click Windows Components, and then click
 Windows Update.
 8. In the Settings pane, double-click Configure Automatic Updates, and then click the Enabled
-option.MCT USE ONLY. STUDENT USE PROHIBITED
-Installation, Storage, and Compute with Windows Server 2016 L12-79
+option.
 9. In the Configure automatic updating field, click and select 4 – Auto download and schedule the
 install, and then click OK.
 10. In the Settings pane, double-click Specify intranet Microsoft update service location, and then
